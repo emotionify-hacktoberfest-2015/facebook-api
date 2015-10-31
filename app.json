@@ -1,0 +1,19 @@
+{
+  "name": "Emotionify",
+  "version": "0.0.1",
+  "homepage": "https://github.com/emotionify-hacktoberfest-2015/facebook-api",
+  "authors": [
+    "Daniel Colceag daniel.colceag@gmail.com",
+    "Octavian Mihalache mihalache.octavian@gmail.com",
+    "Radu Codescu codra27@gmail.com"
+  ],
+  "license": "GPL",
+  "facebook": {
+    "app_id": "165036347177824",
+    "secret": "c0df7787f37a6ce3c5071a983ce2179c",
+    "version": "v2.5",
+    "xfbml": true,
+    "status": true
+  }
+}
+
