@@ -9,8 +9,9 @@
   ],
   "license": "GPL",
   "facebook": {
-    "app_id": "165036347177824",
+    "appId": "165036347177824",
     "secret": "c0df7787f37a6ce3c5071a983ce2179c",
+    "cookie": true
     "version": "v2.5",
     "xfbml": true,
     "status": true
